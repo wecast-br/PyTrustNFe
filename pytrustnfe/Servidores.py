@@ -620,7 +620,7 @@ ESTADO_WS = {
     'RN': SVRS,
     'RO': SVRS,
     'RR': SVRS,
-    'RS': UFRS,
+    'RS': SVRS,
     'SC': SVRS,
     'SE': SVRS,
     'SP': UFSP,
